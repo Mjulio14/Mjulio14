@@ -26,22 +26,17 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 👋 Hi, I’m Julio.
+  
+- 🔭 I use data to create solutions for businesses and organizations.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I'm a Senior Data Analyst
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 📝 I’m looking to collaborate on PYTHON, SQL, EXCEL, R, and DATA VISUALIZATION PROJECTS Using POWER BI, LOOKER or TABLEAU
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💬 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data analysis. Let's turn data into knowledge together!
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
-<!--Intro end-->
-
-
+- 📫 Feel free to reach me out **mjulio14@hotmail.com**
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -107,8 +102,7 @@
 
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+
   
 </div>
 
