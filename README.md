@@ -1,20 +1,8 @@
 <div id="header" align="center">
     <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFvb25zc3VvOHNqbm51M3AzbzNzN3MwNGpycGVzdTJtazR5aWFpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif width="200" />
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Julio</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
+    <h1 align="center"> Hi👋, I'm Julio</h1>
+    <h3 align="center"> Dynamic, proactive, and results-driven professional with over four years of experience in data analysis and model optimization. Skilled in creating models to analyze customer trends and product performance, significantly enhancing customer management efficiency. Experienced in collaborating with various business units to design and implement data-driven initiatives, with a keen focus on identifying pivotal patterns and trends. Possesses a solid analytical foundation and consistently utilizes data to inform strategic business and marketing decisions.
+    </h3>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
