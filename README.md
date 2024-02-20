@@ -1,3 +1,6 @@
+<div id="header" align="center">
+    <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFvb25zc3VvOHNqbm51M3AzbzNzN3MwNGpycGVzdTJtazR5aWFpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif width="200" />
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
