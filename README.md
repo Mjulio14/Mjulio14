@@ -3,6 +3,8 @@
     <h1 align="center"> Hi👋, I'm Julio</h1>
     <h2 align="center"> Dynamic, proactive, and results-driven professional with over four years of experience in data analysis and model optimization. Skilled in creating models to analyze customer trends and product performance, significantly enhancing customer management efficiency. Experienced in collaborating with various business units to design and implement data-driven initiatives, with a keen focus on identifying pivotal patterns and trends. Possesses a solid analytical foundation and consistently utilizes data to inform strategic business and marketing decisions.
     </h2>
+</div>
+
 ---
 
 ###    
